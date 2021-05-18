@@ -1,6 +1,6 @@
 const FINDBYPINCODE = false;
 // location configs
-const PINCODE = '273301';
+const PINCODE = '273001';
 const STATE = 'Uttar Pradesh';
 const DISTRICT = 'Gorakhpur';
 // beneficiary configs
