@@ -1,6 +1,6 @@
 const SERVICE_PROVIDER = 'Gmail';
 const RECIPIENT = 'bum@ichigo.me';
-const SENDER = 'covid-19-vaccine-alerts-cowin';
+const SENDER = 'amitexm@gmail.com';
 const SUBJECT = 'New vaccination slots are available on COWIN. Book appointment now';
 const DAILY_DIGEST_SUBJECT = 'Daily digest: covid-19-vaccine-alerts-cowin';
 const FIRST_EMAIL_SUBJECT = 'Welcome to covid-19-vaccine-alerts-cowin application';
